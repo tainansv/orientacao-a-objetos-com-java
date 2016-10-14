@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\taina\Downloads\LeitorArquivo.zip"/>
+		<item value="C:\Users\taina\Downloads\LerArquivo(1).zip"/>
+		<item value="C:\Users\taina\Downloads\VitorExcecoesLerArquivo(1).zip"/>
+		<item value="C:\Users\taina\Desktop\MetodosAcessoData"/>
+		<item value="C:\Users\taina\Downloads\signosMetodosDeAcesso.zip"/>
+		<item value="C:\Users\taina\Downloads\ProjetoVitorDatas.zip"/>
+		<item value="C:\Users\taina\Downloads\LerArquivo.zip"/>
+		<item value="C:\Users\taina\Downloads\VitorTarefaFinal.zip"/>
+		<item value="C:\Users\taina\Downloads\6thWeekFinalProject.zip"/>
+		<item value="C:\Users\taina\Downloads\JogoDasPalavras.zip"/>
+		<item value="C:\Users\taina\Downloads\formasDeTratamento_f.zip"/>
+		<item value="C:\Users\taina\Desktop\ProjetoFormatarNome"/>
+		<item value="C:\Users\taina\Desktop\tarefa-cinco"/>
+		<item value="C:\Users\taina\Downloads\ProjetoVitorCompra.zip"/>
+		<item value="C:\Users\taina\Downloads\DiferentesProdutos.zip"/>
+		<item value="C:\Users\taina\Downloads\PraticaSemana4.zip"/>
+		<item value="C:\Users\taina\Desktop\Pizzaria"/>
+		<item value="C:\Users\taina\Downloads\atividadePizzaria.zip"/>
+		<item value="C:\Users\taina\Downloads\PrecoPizza.zip"/>
+		<item value="C:\Users\taina\Downloads\PrecoDaPizza.zip"/>
+	</list>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="381" key="DIALOG_X_ORIGIN"/>
+		<item value="185" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="BasicNewProjectResourceWizard">
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="580" key="DIALOG_HEIGHT"/>
+		<item value="429" key="DIALOG_X_ORIGIN"/>
+		<item value="8" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
